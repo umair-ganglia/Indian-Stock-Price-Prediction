@@ -1,0 +1,26 @@
+# Core Data Science Libraries
+pandas==2.3.1
+numpy==2.3.2
+matplotlib==3.10.3
+seaborn==0.13.2
+
+# Machine Learning
+scikit-learn==1.7.1
+tensorflow==2.20.0rc0
+
+# Financial Data
+yfinance==0.2.65
+
+# Time Series Forecasting
+prophet==1.1.7
+
+# Web Interface
+streamlit==1.39.0
+plotly==5.24.1
+
+# Additional Utilities
+jupyter==1.1.1
+notebook==7.3.1
+
+# Optional (install manually if needed)
+# TA-Lib (requires manual installation on Windows)
